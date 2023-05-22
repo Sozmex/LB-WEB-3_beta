@@ -22,7 +22,7 @@ const Hero = () => {
       <style>
         {`
           .hero-image {
-            height: 30rem;
+            height: 69rem;
           }
         `}
         {/* {`
